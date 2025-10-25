@@ -31,12 +31,13 @@ const hafidz = {
     code: ["JavaScript", "TypeScript", "PHP", "Python"],
     technologies: {
         frontend: ["React.js", "Next.js", "Alpine.js", "Tailwind CSS"],
-        backend: ["Node.js", "Laravel", "Express"],
+        backend: ["Node.js", "Laravel", "Express", "FastAPI", "Django"],
         mobile: ["Flutter"],
-        databases: ["MySQL", "MongoDB", "Redis"],
+        databases: ["MySQL", "MongoDB", "Redis", "PostgreSQL"],
         devOps: ["Docker", "AWS (S3, EC2, Lambda)", "Git"],
         cms: ["WordPress"],
-        gis: ["MapBox", "Leaflet"]
+        gis: ["MapBox", "Leaflet"],
+        dataScience: ["Pandas", "NumPy", "Matplotlib"]
     },
     
     currentFocus: "Building scalable full-stack solutions",
@@ -46,7 +47,7 @@ const hafidz = {
 
 🔭 Currently working on **Etera (Ekosistem Tebu Rakyat)** - A platform empowering local sugarcane farmers  
 🌱 Learning **Advanced Cloud Architecture** and **Microservices**  
-💬 Ask me about **React, Next.js, Laravel, Flutter, or anything tech!**  
+💬 Ask me about **React, Next.js, Laravel, Flutter, Python or anything tech!**  
 ⚡ Fun fact: **I thrive on new challenges and emerging technologies**
 
 ---
@@ -69,14 +70,22 @@ const hafidz = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Database & Caching
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
