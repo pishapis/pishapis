@@ -26,7 +26,6 @@ const hafidz = {
     role: "Fullstack Developer",
     location: "Yogyakarta, Indonesia 🇮🇩",
     experience: "4+ years",
-    currentCompany: "PT LPP Agro Nusantara (PTPN Group)",
     
     code: ["JavaScript", "TypeScript", "PHP", "Python"],
     technologies: {
